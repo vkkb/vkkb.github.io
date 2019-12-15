@@ -3,10 +3,11 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+M.Sc. Student Computer Science and Business
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Machine Learning
+  - Need help on assignment to implement a neural network from scratch using only matrix operations? Check out my repository [ml-fun](https://github.com/vkkb/ml-fun)
+- Finance
+  - [Bachelor thesis](http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/47246) about how seasonality affects stock returns
