@@ -34,7 +34,7 @@ Deutschlandstipendium
 
 ### Bachelor Thesis
 
-`1994`
+`2018`
 Seasonality in the cross-section of stock returns, Goethe University Frankfurt, available [online](http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/47246)
 
 ## Occupation
