@@ -1,9 +1,8 @@
 ---
 layout: page
 excerpt: "About Me..."
+title: "Current Interests and Projects"
 ---
-
-## Current Interests and Projects:
 
 - Master Thesis
   - Currently working on the investigation of tail dependence (finance) with Bayesian statistics
