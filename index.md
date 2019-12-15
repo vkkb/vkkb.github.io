@@ -3,8 +3,6 @@ layout: page
 excerpt: "About Me..."
 ---
 
-M.Sc. Student Computer Science and Business
-
 ## Current Interests and Projects:
 
 - Machine Learning
