@@ -1,70 +1,69 @@
 ---
 layout: resume
 ---
-## Currently
-
-Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`Current`
+__Goethe University Frankfurt__
+M.Sc. Computer Science and Business
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2015 - 2018`
+__Goethe University Frankfurt__
+B.Sc. Economics and Business 
+
+`2014`
+__University of Cologne__
+Year abroad
+
+`2011 - 2014`
+__Federal University of Pernambuco__
+B.Sc. Business Administration
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2019`
+Norbert-Walter-Award for best seminar paper (3rd place)
+
+`2018 - 2019`
+Deutschlandstipendium
 
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Bachelor Thesis
 
 `1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
+Seasonality in the cross-section of stock returns, Goethe University Frankfurt, available [online](http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/47246)
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Student Assistant__, International Center for Insurance Regulation at Goethe University Frankfurt 
 
-- Task
-- Task
+- Research tasks involving data analysis with Python and R
+- Corporate finance tutor
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2014 - 2018`
+__Intern/Working Student in Data and Customer Services__, CEPRES
 
-- Task
-- Task
+- Implementation of tools and spreadsheets based on VBA and Excel for analysis of KPIs used in the private equity industry
+- Direct contact with customers from Germany and the USA
 
+`2013 - 2014`
+__Wealth Management Intern__, Bank BTG Pactual
+
+- Support sales, trading and credit operations
+
+`2013`
+__Business Analyst in Financial Advisory__, Deloitte
+
+- Support projects in the context of grants and incentives
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2019 -->
 
 
