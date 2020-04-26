@@ -5,7 +5,7 @@ title: CV
 
 ## Education
 
-`Current`
+`2018 - 2020`
 __Goethe University Frankfurt__
 M.Sc. Computer Science and Business
 
@@ -41,6 +41,9 @@ Seasonality in the cross-section of stock returns, Goethe University Frankfurt, 
 ## Occupation
 
 `Current`
+__Software Consultant__, TNG Technology Consulting 
+
+`2018 - 2020`
 __Student Assistant__, International Center for Insurance Regulation at Goethe University Frankfurt 
 
 - Research tasks involving data analysis with Python and R
